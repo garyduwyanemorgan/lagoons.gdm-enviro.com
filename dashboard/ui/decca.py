@@ -12,7 +12,7 @@ from ui.components import page_header, section_header, metric_card, callout
 def render():
     page_header(
         "DECCA REGULATORY COMPLIANCE REPORT",
-        "Reporting Period: January – December 2026  |  Dubai Holdings — Dubai Lands",
+        "Reporting Period: January – December 2026  |  Compliance System",
         icon="📋",
     )
 
