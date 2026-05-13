@@ -81,7 +81,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown(
     """<div style="font-size: 0.75rem; opacity: 0.6; text-align: center; padding-top: 1rem;">
     GDM Enviro Consultants<br>
-    Dubai Holdings — Dubai Lands<br>
+    Compliance Reporting — Dubai Lands<br>
     © 2026
     </div>""",
     unsafe_allow_html=True,
